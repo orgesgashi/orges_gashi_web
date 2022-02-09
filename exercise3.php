@@ -1,5 +1,6 @@
 <?php 
 // link to repo:  https://github.com/orgesgashi/orges_gashi_web
+// link to web page:  https://orgesgashi.github.io/orges_gashi_web/
 echo "<h1>My Exercise 3 - Orges Gashi</h1>";
 
 # 1.Write a script that gets the current month and prints one of the following responses, depending on whether it's August or not:
